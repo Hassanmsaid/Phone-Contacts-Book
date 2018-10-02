@@ -1,0 +1,13 @@
+﻿Build started 2015-12-29 8:32:15 PM.
+     1>Project "F:\Year 2\Data Structures\Phone Contacts Book\Phone Contacts Book\Phone Contacts Book.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Phone Contacts Book.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\Program Files D\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\year 2\data structures\phone contacts book\phone contacts book\main.cpp(467): fatal error C1004: unexpected end-of-file found
+     1>Done Building Project "F:\Year 2\Data Structures\Phone Contacts Book\Phone Contacts Book\Phone Contacts Book.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.94
